@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877255120765",
+    "project_id": "udemy-shop-d868d",
+    "storage_bucket": "udemy-shop-d868d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877255120765:android:7e89d88e304bb00f169e14",
+        "android_client_info": {
+          "package_name": "com.haidil.udemyshops"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877255120765-aq7i95hqe1u89rnbvsrsqjfdnj47lpgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.haidil.udemyshops",
+            "certificate_hash": "2a8a33324687bc12d8edb8e8c160131edc4cebe1"
+          }
+        },
+        {
+          "client_id": "877255120765-6okb47sdlq4bro6q85f47vho4016h2nh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGE299GhwAJvnkMUSlyda-gUdD_IqxjCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877255120765-6okb47sdlq4bro6q85f47vho4016h2nh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

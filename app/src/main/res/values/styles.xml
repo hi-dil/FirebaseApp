@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="defaultTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">16dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+        <item name="android:textColorHint">@color/colorSecondaryText</item>
+    </style>
+
+    <style name="defaultEditText">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:padding">@dimen/et_padding</item>
+        <item name="android:textColorHint">@color/colorPrimaryText</item>
+        <item name="android:textSize">@dimen/et_textSize</item>
+    </style>
+</resources>

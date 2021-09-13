@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ed2173</color>
+    <color name="primaryDark">#222934</color>
+    <color name="colorThemePink">#ed2173</color>
+    <color name="colorThemeOrange">#f4443d</color>
+    <color name="colorPrimaryText">#EDEDED</color>
+    <color name="colorSecondaryText">#E4E4E4</color>
+</resources>

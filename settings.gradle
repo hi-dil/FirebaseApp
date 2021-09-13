@@ -1,0 +1,2 @@
+rootProject.name = "Udemy Shops"
+include ':app'
